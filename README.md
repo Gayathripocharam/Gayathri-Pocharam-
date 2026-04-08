@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- ▓▓ HERO BANNER ▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020208,25:050512,50:0a0820,75:050512,100:020208&height=200&section=header&reversal=false" width="100%"/>
-
 <!-- ▓▓ GLITCH NAME ▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=GAYATHRI%20POCHARAM&fontColor=00F7FF&fontSize=68&fontAlignY=60&animation=scaleIn&stroke=A855F7&strokeWidth=2&desc=━━━━━━━━━━━━━━━━━━━━━━━━━━━━&descSize=14&descAlignY=85&descAlign=50&descColor=00F7FF33" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=GAYATHRI%20POCHARAM&fontColor=00F7FF&fontSize=68&fontAlignY=60&animation=scaleIn&stroke=A855F7&strokeWidth=2" width="100%"/>
 
 <!-- ▓▓ TYPING SUBTITLE ▓▓ -->
 <a href="https://git.io/typing-svg">
@@ -33,18 +30,13 @@
 ![Pandas](https://img.shields.io/badge/Pandas-020208?style=for-the-badge&logo=pandas&logoColor=A855F7&labelColor=050512)
 ![SQL](https://img.shields.io/badge/SQL-020208?style=for-the-badge&logo=postgresql&logoColor=00F7FF&labelColor=050512)
 
-<br/><br/>
-
-<!-- ▓▓ FOOTER WAVE ▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:020208,50:0a0820,100:020208&height=80&section=footer&reversal=true" width="100%"/>
-
 </div>
 
 -----
 
 <div align="center">
 
-### ✦   A B O U T   M E   ✦
+### •   A B O U T   M E   •
 
 I am an aspiring **Data Scientist** and **ML Engineer** pursuing my B.Tech in CSE (Data Science) at **Woxsen University**. My focus lies at the intersection of complex algorithms and real-world impact—specializing in **Healthcare AI**, **NLP**, and **Predictive Analytics**. I strive to transform raw data into scalable, life-saving insights through innovative engineering and research.
 
@@ -54,13 +46,13 @@ I am an aspiring **Data Scientist** and **ML Engineer** pursuing my B.Tech in CS
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                   ✦  IDENTITY CORE  ✦                     -->
+<!--                   •  IDENTITY CORE  •                     -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### ✦   I D E N T I T Y   C O R E   ✦
+### •   I D E N T I T Y   C O R E   •
 
 </div>
 
@@ -103,13 +95,13 @@ I am an aspiring **Data Scientist** and **ML Engineer** pursuing my B.Tech in CS
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                 ✦  PATENT ACHIEVEMENT  ✦                  -->
+<!--                 •  PATENT ACHIEVEMENT  •                  -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### ✦   P A T E N T   A C H I E V E M E N T   ✦
+### •   P A T E N T   A C H I E V E M E N T   •
 
 <img src="https://img.shields.io/badge/PATENT-GRANTED-00C86F?style=for-the-badge&logo=googlescholar&labelColor=050510" />
 
@@ -125,11 +117,11 @@ I am an aspiring **Data Scientist** and **ML Engineer** pursuing my B.Tech in CS
 
 <div align="center">
 
-### ✦   T E C H   S T A C K   D N A   ✦
+### •   T E C H   S T A C K   D N A   •
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                       ✦ TECH STACK DNA ✦                           ║
+║                       • TECH STACK DNA •                           ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
 ║  LANGUAGES      : Python · R · SQL · Julia · C++                    ║
@@ -149,7 +141,7 @@ I am an aspiring **Data Scientist** and **ML Engineer** pursuing my B.Tech in CS
 
 <div align="center">
 
-### ✦   S K I L L   M A T R I X   ✦
+### •   S K I L L   M A T R I X   •
 
 </div>
 
@@ -174,13 +166,13 @@ I am an aspiring **Data Scientist** and **ML Engineer** pursuing my B.Tech in CS
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--          ✦  FEATURED PROJECT DEEP DIVES  ✦                -->
+<!--          •  FEATURED PROJECT DEEP DIVES  •                -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### ✦   F E A T U R E D   P R O J E C T S   —   D E E P   D I V E   ✦
+### •   F E A T U R E D   P R O J E C T S   —   D E E P   D I V E   •
 
 </div>
 
@@ -260,13 +252,13 @@ I am an aspiring **Data Scientist** and **ML Engineer** pursuing my B.Tech in CS
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                 ✦  GITHUB METRICS  ✦                      -->
+<!--                 •  GITHUB METRICS  •                      -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### ✦   G I T H U B   M E T R I C S   ✦
+### •   G I T H U B   M E T R I C S   •
 
 <img src="https://github-readme-stats.vercel.app/api?username=GayathriPocharam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&border_radius=10" height="185"/>
 &nbsp;&nbsp;
@@ -282,13 +274,13 @@ I am an aspiring **Data Scientist** and **ML Engineer** pursuing my B.Tech in CS
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                 ✦  ACTIVITY GRAPH  ✦                      -->
+<!--                 •  ACTIVITY GRAPH  •                      -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### ✦   C O M M I T   T I M E L I N E   ✦
+### •   C O M M I T   T I M E L I N E   •
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GayathriPocharam&theme=tokyo-night&hide_border=true&bg_color=050510&color=00F7FF&line=00F7FF&point=FFB800&area=true&area_color=00F7FF" width="100%"/>
 
@@ -298,13 +290,13 @@ I am an aspiring **Data Scientist** and **ML Engineer** pursuing my B.Tech in CS
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                  ✦  TROPHIES  ✦                           -->
+<!--                  •  TROPHIES  •                           -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### ✦   A C H I E V E M E N T   G R I D   ✦
+### •   A C H I E V E M E N T   G R I D   •
 
 <img src="https://github-profile-trophy.vercel.app/?username=GayathriPocharam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
@@ -323,13 +315,13 @@ I am an aspiring **Data Scientist** and **ML Engineer** pursuing my B.Tech in CS
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--              ✦  DOMAIN EXPERTISE PIE  ✦                   -->
+<!--              •  DOMAIN EXPERTISE PIE  •                   -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### ✦   D O M A I N   F O C U S   D I S T R I B U T I O N   ✦
+### •   D O M A I N   F O C U S   D I S T R I B U T I O N   •
 
 </div>
 
@@ -346,13 +338,13 @@ pie title Domain Focus Distribution
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                  ✦  AI PERSONALITY  ✦                     -->
+<!--                  •  AI PERSONALITY  •                     -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### ✦   G A Y A T H R I . A I   —   P E R S O N A L I T Y   M O D U L E   ✦
+### •   G A Y A T H R I . A I   —   P E R S O N A L I T Y   M O D U L E   •
 
 </div>
 
@@ -420,13 +412,13 @@ print(gayathri.system_check())  # → All systems nominal
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--               ✦  CONNECT / CONTACT  ✦                     -->
+<!--               •  CONNECT / CONTACT  •                     -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### ✦   E S T A B L I S H   C O N N E C T I O N   ✦
+### •   E S T A B L I S H   C O N N E C T I O N   •
 
 <a href="https://github.com/GayathriPocharam">
   <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-GayathriPocharam-00F7FF?style=for-the-badge&labelColor=050510"/>
@@ -469,6 +461,6 @@ print(gayathri.system_check())  # → All systems nominal
 
 <br/>
 
-<sub>✦ Crafted with intent · Powered by curiosity · Secured by design · Deployed with precision ✦</sub>
+<sub>• Crafted with intent · Powered by curiosity · Secured by design · Deployed with precision •</sub>
 
 </div>

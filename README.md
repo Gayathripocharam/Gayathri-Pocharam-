@@ -57,38 +57,38 @@ I am an aspiring **Full Stack Developer** and **AI Engineer** pursuing my B.Tech
 </div>
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                         GAYATHRI.CORE  v3.0                          ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  entity        : Gayathri Pocharam                                   ║
-║  role          : Full Stack Developer · AI Engineer                  ║
-║  institute     : Woxsen University · CSE-DS '28                      ║
-║  speciality    : Full Stack Web · AI Integrations                    ║
-║  location      : Hyderabad, India                                    ║
-║                                                                      ║
-║  domains:                                                            ║
-║    ├─ [Web] Full Stack Web Development (React/Flask/SQL)             ║
-║    ├─ [AI]  Machine Learning & Integrations                          ║
-║    ├─ [NLP] Natural Language Processing                              ║
-║    ├─ [CV]  Computer Vision & Image Processing                       ║
-║    ├─ [BI]  Data Visualization & Business Intelligence               ║
-║    └─ [Sys] Scalable Systems & Optimization                          ║
-║                                                                      ║
-║  current_state:                                                      ║
-║    semester    : 5th Semester  (3rd Year)                            ║
-║    focus       : FoodBridge + StrokeGuard AI                         ║
-║    mindset     : User Centric · Clean Code · Scalable Systems        ║
-║    mission     : Build tech that empowers communities                ║
-║                                                                      ║
-║  achievements:                                                       ║
-║    ├─ StrokeGuard AI Innovation Lead                                 ║
-║    ├─ Academic Excellence in Data Science · 2024                     ║
-║    ├─ FoodBridge Platform Core Developer                             ║
-║    └─ AI Research & Workshop Facilitator                             ║
-║                                                                      ║
-║  status        : ONLINE · coding solutions                           ║
-╚══════════════════════════════════════════════════════════════════════╝
++----------------------------------------------------------------------+
+|                         GAYATHRI.CORE  v3.0                          |
++----------------------------------------------------------------------+
+|                                                                      |
+|  entity        : Gayathri Pocharam                                   |
+|  role          : Full Stack Developer - AI Engineer                  |
+|  institute     : Woxsen University - CSE-DS '28                      |
+|  speciality    : Full Stack Web - AI Integrations                    |
+|  location      : Hyderabad, India                                    |
+|                                                                      |
+|  domains:                                                            |
+|    +- [Web] Full Stack Web Development (React/Flask/SQL)             |
+|    +- [AI]  Machine Learning & Integrations                          |
+|    +- [NLP] Natural Language Processing                              |
+|    +- [CV]  Computer Vision & Image Processing                       |
+|    +- [BI]  Data Visualization & Business Intelligence               |
+|    +- [Sys] Scalable Systems & Optimization                          |
+|                                                                      |
+|  current_state:                                                      |
+|    semester    : 5th Semester  (3rd Year)                            |
+|    focus       : FoodBridge + StrokeGuard AI                         |
+|    mindset     : User Centric - Clean Code - Scalable Systems        |
+|    mission     : Build tech that empowers communities                |
+|                                                                      |
+|  achievements:                                                       |
+|    +- StrokeGuard AI Innovation Lead                                 |
+|    +- Academic Excellence in Data Science - 2024                     |
+|    +- FoodBridge Platform Core Developer                             |
+|    +- AI Research & Workshop Facilitator                             |
+|                                                                      |
+|  status        : ONLINE - coding solutions                           |
++----------------------------------------------------------------------+
 ```
 
 -----
@@ -382,56 +382,38 @@ pie title Domain Focus Distribution
 
 </div>
 
-```python
-class GayathriPocharam:
-    """
-    ╔══════════════════════════════════════════════════════════╗
-    ║        GAYATHRI POCHARAM · FULL STACK DEVELOPER OS       ║
-    ║        Version: 3.1-stable  |  Build: 2028-optimized     ║
-    ╚══════════════════════════════════════════════════════════╝
-    """
+#### ⚙️ System Profile & Parameters
+| Parameter | Value |
+| :--- | :--- |
+| **Operating Since** | `2024` |
+| **Version / Build** | `3.1-stable` \| `2028-optimized` |
+| **Current Location** | `Hyderabad, India 🇮🇳` |
+| **Current Station** | `Woxsen University - CSE-DS '28` |
+| **System Status** | `🟢 ONLINE — coding solutions` |
 
-    OPERATING_SINCE = 2024
-    VERSION         = "3.1-stable"
-    UNIVERSITY      = "Woxsen University — CSE-DS '28"
-    LOCATION        = "Hyderabad, India 🇮🇳"
+#### 🧠 Core Philosophies & Logic
+> 🔍 **ANALYZE:** *"What do the users need and how can the systems scale?"*
+> 
+> 🛠️ **SOLVE:** *"Clean code. Robust APIs. Seamless user experience."*
+> 
+> 📚 **LEARN:** *"Every technology stack is a tool to solve real-world problems."*
+> 
+> 🎯 **GOAL:** *"Build tech that bridges gaps & empowers communities. 🌍"*
 
-    def __init__(self):
-        self.role         = "Full Stack Developer · AI Engineer"
-        self.domains      = ["Full Stack Web", "AI Integrations", "NLP", "Computer Vision", "BI"]
-        self.stack        = ["React", "Flask", "Node.js", "Python", "SQL", "TailwindCSS"]
-        self.specialty    = "Full Stack Web & AI-Powered Applications"
-        self.mindset      = "User Centric · Clean Code · Scalable Systems"
-        self.fuel         = ["Clean Code 💻", "API Endpoints", "React Hooks", "Espresso ☕"]
-        self.achievements = [
-            "StrokeGuard Innovation Lead",
-            "Academic Excellence 2024",
-            "FoodBridge Core Developer",
-            "AI Workshop Lead"
-        ]
-        self.status       = "🟢 ONLINE — coding solutions"
+#### 🔌 Subsystem Diagnostics
+* 🌐 **Web Engine:** `🟢 ONLINE` — React + Flask API active
+* 🤖 **AI Hub:** `🟢 ONLINE` — PyTorch + Transformers
+* 📊 **Viz Lab:** `🟢 ONLINE` — PowerBI + Plotly active
+* 💾 **DB Ops:** `🟢 ONLINE` — PostgreSQL + SQLite connected
+* 📦 **Deploy Ops:** `🟢 ONLINE` — Dockerized + CI/CD active
 
-    def analyze(self)  -> str: return "What do the users need and how can the systems scale?"
-    def solve(self)    -> str: return "Clean code. Robust APIs. Seamless user experience."
-    def learn(self)    -> str: return "Every technology stack is a tool to solve real-world problems."
-    def goal(self)     -> str: return "Build tech that bridges gaps & empowers communities. 🌍"
-    def current(self)  -> str: return "Woxsen University CSE → Data Science Track"
-    def next(self)     -> str: return "Full Stack Internship → AI Solutions Dev → Tech Entrepreneur"
+#### ⚡ Runtime Variables
+* **Role:** Full Stack Developer · AI Engineer
+* **Specialty:** Full Stack Web & AI-Powered Applications
+* **Mindset:** User Centric · Clean Code · Scalable Systems
+* **Daily Fuel:** `Clean Code 💻` · `API Endpoints` · `React Hooks` · `Espresso ☕`
+* **Career Pathway:** Woxsen University CSE ➜ Data Science Track ➜ Full Stack Internship ➜ AI Solutions Dev ➜ Tech Entrepreneur
 
-    def system_check(self) -> dict:
-        return {
-            "web_engine"     : "🟢 ONLINE — React + Flask API active",
-            "ai_hub"         : "🟢 ONLINE — PyTorch + Transformers",
-            "viz_lab"        : "🟢 ONLINE — PowerBI + Plotly active",
-            "db_ops"         : "🟢 ONLINE — PostgreSQL + SQLite connected",
-            "deploy_ops"     : "🟢 ONLINE — Dockerized + CI/CD active",
-        }
-
-
-gayathri = GayathriPocharam()
-print(gayathri.goal())          # → "Build tech that bridges gaps & empowers communities. 🌍"
-print(gayathri.system_check())  # → All systems nominal
-```
 
 -----
 

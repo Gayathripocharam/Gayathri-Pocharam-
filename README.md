@@ -38,58 +38,45 @@
 
 ### •   A B O U T   M E   •
 
-I am an aspiring **Full Stack Developer** and **AI Engineer** pursuing my B.Tech in CSE (Data Science) at **Woxsen University**. My focus lies at the intersection of robust web architectures and intelligent systems—specializing in **Full Stack Web Architectures**, **AI-Powered Integrations**, and **Scalable Platforms**. I strive to bridge complex technologies with intuitive user experiences that empower communities and drive impact.
+I am Pocharam Gayathri an aspiring **Full Stack Developer** and **AI Engineer** pursuing my B.Tech in CSE (Data Science) at **Woxsen University**. My focus lies at the intersection of robust web architectures and intelligent systems—specializing in **Full Stack Web Architectures**, **AI-Powered Integrations**, and **Scalable Platforms**. I strive to bridge complex technologies with intuitive user experiences that empower communities and drive impact.
 
 </div>
 
 -----
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                   •  IDENTITY CORE  •                     -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
+## ✦ Core Identity
 
 <div align="center">
+<div style="
+  backdrop-filter: blur(12px);
+  background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  padding: 20px;
+  width: 80%;
+  border: 1px solid rgba(255,255,255,0.1);
+">
 
-### •   I D E N T I T Y   C O R E   •
+<table>
+  <tr>
+    <td align="center" width="150"><strong>Name</strong></td>
+    <td align="center">Gayathri Pocharam</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Education</strong></td>
+    <td align="center">B.Tech CSE (Data Science) @ Woxsen University, Hyderabad</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Focus</strong></td>
+    <td align="center">Full Stack Web • AI Integrations • Scalable Systems</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Mindset</strong></td>
+    <td align="center"><i>User Centric • Clean Code • Scalable Systems</i></td>
+  </tr>
+</table>
 
 </div>
-
-```
-+----------------------------------------------------------------------+
-|                         GAYATHRI.CORE  v3.0                          |
-+----------------------------------------------------------------------+
-|                                                                      |
-|  entity        : Gayathri Pocharam                                   |
-|  role          : Full Stack Developer - AI Engineer                  |
-|  institute     : Woxsen University - CSE-DS '28                      |
-|  speciality    : Full Stack Web - AI Integrations                    |
-|  location      : Hyderabad, India                                    |
-|                                                                      |
-|  domains:                                                            |
-|    +- [Web] Full Stack Web Development (React/Flask/SQL)             |
-|    +- [AI]  Machine Learning & Integrations                          |
-|    +- [NLP] Natural Language Processing                              |
-|    +- [CV]  Computer Vision & Image Processing                       |
-|    +- [BI]  Data Visualization & Business Intelligence               |
-|    +- [Sys] Scalable Systems & Optimization                          |
-|                                                                      |
-|  current_state:                                                      |
-|    semester    : 5th Semester  (3rd Year)                            |
-|    focus       : FoodBridge + StrokeGuard AI                         |
-|    mindset     : User Centric - Clean Code - Scalable Systems        |
-|    mission     : Build tech that empowers communities                |
-|                                                                      |
-|  achievements:                                                       |
-|    +- StrokeGuard AI Innovation Lead                                 |
-|    +- Academic Excellence in Data Science - 2024                     |
-|    +- FoodBridge Platform Core Developer                             |
-|    +- AI Research & Workshop Facilitator                             |
-|                                                                      |
-|  status        : ONLINE - coding solutions                           |
-+----------------------------------------------------------------------+
-```
+</div>
 
 -----
 
@@ -115,43 +102,45 @@ I am an aspiring **Full Stack Developer** and **AI Engineer** pursuing my B.Tech
 
 -----
 
-<div align="center">
+## ✦ What I Build
 
-### •   T E C H   S T A C K   D N A   •
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                          • TECH STACK DNA •                          ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  LANGUAGES      : Python · JavaScript · SQL · R · C++                ║
-║  FRAMEWORKS     : React · Flask · Node.js · Express · TailwindCSS    ║
-║  LIBRARIES      : PyTorch · TensorFlow · Scikit-learn · Pandas       ║
-║  TOOLS          : Git · GitHub · VSCode · Docker · Linux · CI/CD     ║
-║  ANALYTICS      : PostgreSQL · SQLite · PowerBI · Tableau · Excel    ║
-║                                                                      ║
-║  STATE          : Optimized · Scalable · Clean-Architecture          ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
+### ⚙️ Tech Stack & Domains
 
 <div align="center">
+<div style="
+  backdrop-filter: blur(12px);
+  background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  padding: 20px;
+  width: 80%;
+  border: 1px solid rgba(255,255,255,0.1);
+">
 
-### •   S K I L L   M A T R I X   •
+<table>
+  <tr>
+    <td align="center" width="180"><strong>🌐 Web Dev</strong></td>
+    <td align="center">React • Node.js • Express • Flask • HTML5 • CSS3 • TailwindCSS</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🐍 Languages</strong></td>
+    <td align="center">Python • JavaScript • SQL • C++ • R</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🤖 AI & ML</strong></td>
+    <td align="center">PyTorch • TensorFlow • Scikit-learn • NLP</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🗄️ Databases</strong></td>
+    <td align="center">SQLite • PostgreSQL</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🐳 Tools & Ops</strong></td>
+    <td align="center">Git • GitHub • Docker • Linux • CI/CD</td>
+  </tr>
+</table>
 
 </div>
-
-|Domain          |Technology                 |
-|----------------|---------------------------|
-|🌐 **Web Dev**   |React · Node.js · Express · Flask · HTML5 · CSS3 · TailwindCSS |
-|🐍 **Languages** |Python · JavaScript · SQL · R · C++ |
-|🤖 **AI / ML**   |PyTorch · TensorFlow · Scikit-learn · NLP |
-|🗄️ **Databases**|SQLite · PostgreSQL |
-|🐳 **Tools / Ops**|Git · GitHub · Docker · Linux · CI/CD |
+</div>
 
 -----
 
@@ -330,18 +319,54 @@ I am an aspiring **Full Stack Developer** and **AI Engineer** pursuing my B.Tech
 
 <div align="center">
 
-### •   A C H I E V E M E N T   G R I D   •
+### •   A C H I E V E M E N T   G R I D   •
 
 <img src="https://github-profile-trophy.vercel.app/?username=GayathriPocharam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
-<br/>
+<br/><br/>
 
-|🏆 Award                             |📅 Year |🏛️ Institution              |
-|------------------------------------|:-----:|---------------------------|
-|StrokeGuard AI Innovation Lead      |2024   |Woxsen School of Technology|
-|Academic Excellence in Data Science  |2024   |Woxsen University          |
-|15+ Data Science Public Projects    |2024–25|GitHub                     |
-|AI Research & Workshop Facilitator  |2024–25|Various · Peer-led         |
+<div style="
+  backdrop-filter: blur(12px);
+  background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  padding: 20px;
+  width: 80%;
+  border: 1px solid rgba(255,255,255,0.1);
+">
+
+<table>
+  <thead>
+    <tr>
+      <td align="center" width="250"><strong>🏆 Award</strong></td>
+      <td align="center" width="100"><strong>📅 Year</strong></td>
+      <td align="center"><strong>🏛️ Institution</strong></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">StrokeGuard AI Innovation Lead</td>
+      <td align="center">2024</td>
+      <td align="center">Woxsen School of Technology</td>
+    </tr>
+    <tr>
+      <td align="center">Academic Excellence in Data Science</td>
+      <td align="center">2024</td>
+      <td align="center">Woxsen University</td>
+    </tr>
+    <tr>
+      <td align="center">15+ Data Science Public Projects</td>
+      <td align="center">2024–25</td>
+      <td align="center">GitHub</td>
+    </tr>
+    <tr>
+      <td align="center">AI Research & Workshop Facilitator</td>
+      <td align="center">2024–25</td>
+      <td align="center">Various · Peer-led</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 </div>
 
@@ -357,7 +382,14 @@ I am an aspiring **Full Stack Developer** and **AI Engineer** pursuing my B.Tech
 
 ### •   D O M A I N   F O C U S   D I S T R I B U T I O N   •
 
-</div>
+<div style="
+  backdrop-filter: blur(12px);
+  background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  padding: 20px;
+  width: 80%;
+  border: 1px solid rgba(255,255,255,0.1);
+">
 
 ```mermaid
 pie title Domain Focus Distribution
@@ -367,6 +399,10 @@ pie title Domain Focus Distribution
     "NLP" : 15
     "Computer Vision" : 10
 ```
+
+</div>
+
+</div>
 
 -----
 
@@ -378,41 +414,157 @@ pie title Domain Focus Distribution
 
 <div align="center">
 
-### •   G A Y A T H R I . A I   —   P E R S O N A L I T Y   M O D U L E   •
+### •   G A Y A T H R I . A I   —   P E R S O N A L I T Y   M O D U L E   •
+
+<br/>
+
+<div style="
+  backdrop-filter: blur(12px);
+  background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  padding: 20px;
+  width: 80%;
+  border: 1px solid rgba(255,255,255,0.1);
+">
+
+#### ⚙️ System Profile & Parameters
+
+<table>
+  <tr>
+    <td align="center" width="180"><strong>Operating Since</strong></td>
+    <td align="center"><code>2024</code></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Version / Build</strong></td>
+    <td align="center"><code>3.1-stable</code> | <code>2028-optimized</code></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Current Location</strong></td>
+    <td align="center">Hyderabad, India 🇮🇳</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Current Station</strong></td>
+    <td align="center">Woxsen University - CSE-DS '28</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>System Status</strong></td>
+    <td align="center"><code>🟢 ONLINE — coding solutions</code></td>
+  </tr>
+</table>
 
 </div>
 
-#### ⚙️ System Profile & Parameters
-| Parameter | Value |
-| :--- | :--- |
-| **Operating Since** | `2024` |
-| **Version / Build** | `3.1-stable` \| `2028-optimized` |
-| **Current Location** | `Hyderabad, India 🇮🇳` |
-| **Current Station** | `Woxsen University - CSE-DS '28` |
-| **System Status** | `🟢 ONLINE — coding solutions` |
+<br/>
+
+<div style="
+  backdrop-filter: blur(12px);
+  background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  padding: 20px;
+  width: 80%;
+  border: 1px solid rgba(255,255,255,0.1);
+">
 
 #### 🧠 Core Philosophies & Logic
-> 🔍 **ANALYZE:** *"What do the users need and how can the systems scale?"*
-> 
-> 🛠️ **SOLVE:** *"Clean code. Robust APIs. Seamless user experience."*
-> 
-> 📚 **LEARN:** *"Every technology stack is a tool to solve real-world problems."*
-> 
-> 🎯 **GOAL:** *"Build tech that bridges gaps & empowers communities. 🌍"*
+
+<table>
+  <tr>
+    <td align="center" width="180"><strong>🔍 Analyze</strong></td>
+    <td align="center"><em>"What do the users need and how can the systems scale?"</em></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🛠️ Solve</strong></td>
+    <td align="center"><em>"Clean code. Robust APIs. Seamless user experience."</em></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>📚 Learn</strong></td>
+    <td align="center"><em>"Every technology stack is a tool to solve real-world problems."</em></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🎯 Goal</strong></td>
+    <td align="center"><em>"Build tech that bridges gaps & empowers communities. 🌍"</em></td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<div style="
+  backdrop-filter: blur(12px);
+  background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  padding: 20px;
+  width: 80%;
+  border: 1px solid rgba(255,255,255,0.1);
+">
 
 #### 🔌 Subsystem Diagnostics
-* 🌐 **Web Engine:** `🟢 ONLINE` — React + Flask API active
-* 🤖 **AI Hub:** `🟢 ONLINE` — PyTorch + Transformers
-* 📊 **Viz Lab:** `🟢 ONLINE` — PowerBI + Plotly active
-* 💾 **DB Ops:** `🟢 ONLINE` — PostgreSQL + SQLite connected
-* 📦 **Deploy Ops:** `🟢 ONLINE` — Dockerized + CI/CD active
+
+<table>
+  <tr>
+    <td align="center" width="180"><strong>🌐 Web Engine</strong></td>
+    <td align="center"><code>🟢 ONLINE</code> — React + Flask API active</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🤖 AI Hub</strong></td>
+    <td align="center"><code>🟢 ONLINE</code> — PyTorch + Transformers</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>📊 Viz Lab</strong></td>
+    <td align="center"><code>🟢 ONLINE</code> — PowerBI + Plotly active</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>💾 DB Ops</strong></td>
+    <td align="center"><code>🟢 ONLINE</code> — PostgreSQL + SQLite connected</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>📦 Deploy Ops</strong></td>
+    <td align="center"><code>🟢 ONLINE</code> — Dockerized + CI/CD active</td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<div style="
+  backdrop-filter: blur(12px);
+  background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  padding: 20px;
+  width: 80%;
+  border: 1px solid rgba(255,255,255,0.1);
+">
 
 #### ⚡ Runtime Variables
-* **Role:** Full Stack Developer · AI Engineer
-* **Specialty:** Full Stack Web & AI-Powered Applications
-* **Mindset:** User Centric · Clean Code · Scalable Systems
-* **Daily Fuel:** `Clean Code 💻` · `API Endpoints` · `React Hooks` · `Espresso ☕`
-* **Career Pathway:** Woxsen University CSE ➜ Data Science Track ➜ Full Stack Internship ➜ AI Solutions Dev ➜ Tech Entrepreneur
+
+<table>
+  <tr>
+    <td align="center" width="180"><strong>Role</strong></td>
+    <td align="center">Full Stack Developer · AI Engineer</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Specialty</strong></td>
+    <td align="center">Full Stack Web & AI-Powered Applications</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Mindset</strong></td>
+    <td align="center">User Centric · Clean Code · Scalable Systems</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Daily Fuel</strong></td>
+    <td align="center"><code>Clean Code 💻</code> • <code>API Endpoints</code> • <code>React Hooks</code> • <code>Espresso ☕</code></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Career Pathway</strong></td>
+    <td align="center">Woxsen University CSE ➜ Data Science Track ➜ Full Stack Internship ➜ AI Solutions Dev ➜ Tech Entrepreneur</td>
+  </tr>
+</table>
+
+</div>
+
+</div>
 
 
 -----
@@ -450,13 +602,36 @@ pie title Domain Focus Distribution
 
 <br/><br/>
 
-|💼 Open To                 |📋 Details                                                        |
-|--------------------------|-----------------------------------------------------------------|
-|🎯 **Internships**         |Full Stack Web Development · Software Engineering · AI Engineering|
-|🤝 **Collaborations**      |Open source web apps · SaaS products · AI integrations           |
-|🔬 **Research Projects**   |Human-AI Interfaces · Cloud Architectures · NLP Integrations     |
-|💡 **Idea Exchange**       |System design · API architecture · Web optimization              |
-|🌍 **Remote Opportunities**|Open to global remote collaborations                             |
+<table align="center">
+  <thead>
+    <tr>
+      <th>💼 Open To</th>
+      <th>📋 Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>🎯 Internships</strong></td>
+      <td>Full Stack Web Development · Software Engineering · AI Engineering</td>
+    </tr>
+    <tr>
+      <td><strong>🤝 Collaborations</strong></td>
+      <td>Open source web apps · SaaS products · AI integrations</td>
+    </tr>
+    <tr>
+      <td><strong>🔬 Research Projects</strong></td>
+      <td>Human-AI Interfaces · Cloud Architectures · NLP Integrations</td>
+    </tr>
+    <tr>
+      <td><strong>💡 Idea Exchange</strong></td>
+      <td>System design · API architecture · Web optimization</td>
+    </tr>
+    <tr>
+      <td><strong>🌍 Remote Opportunities</strong></td>
+      <td>Open to global remote collaborations</td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 

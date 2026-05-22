@@ -5,7 +5,7 @@
 
 <!-- ▓▓ TYPING SUBTITLE ▓▓ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Data+Scientist+%E2%80%A2+ML+Engineer+%E2%80%A2+AI+Researcher;Building+Intelligent+Systems+%7C+Open+to+Collaborate;Turning+Data+into+Decisions+%E2%9A%A1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%E2%80%A2+AI+Engineer+%E2%80%A2+Tech+Innovator;Building+Scalable+Web+Apps+%7C+Open+to+Collaborate;Bridging+Gaps+with+Clean+Code+%E2%9A%A1" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -16,19 +16,19 @@
 <!-- ▓▓ TECH BADGES ▓▓ -->
 <br/>
 
-![Python](https://img.shields.io/badge/Python-020208?style=for-the-badge&logo=python&logoColor=00F7FF&labelColor=050512)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-020208?style=for-the-badge&logo=tensorflow&logoColor=A855F7&labelColor=050512)
-![PyTorch](https://img.shields.io/badge/PyTorch-020208?style=for-the-badge&logo=pytorch&logoColor=FF6AC1&labelColor=050512)
-![Scikit](https://img.shields.io/badge/Scikit--learn-020208?style=for-the-badge&logo=scikit-learn&logoColor=00F7FF&labelColor=050512)
-![Jupyter](https://img.shields.io/badge/Jupyter-020208?style=for-the-badge&logo=jupyter&logoColor=A855F7&labelColor=050512)
+![JavaScript](https://img.shields.io/badge/JavaScript-020208?style=for-the-badge&logo=javascript&logoColor=00F7FF&labelColor=050512)
+![React](https://img.shields.io/badge/React-020208?style=for-the-badge&logo=react&logoColor=A855F7&labelColor=050512)
+![Node.js](https://img.shields.io/badge/Node.js-020208?style=for-the-badge&logo=node.js&logoColor=FF6AC1&labelColor=050512)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-020208?style=for-the-badge&logo=tailwindcss&logoColor=00F7FF&labelColor=050512)
+![HTML5](https://img.shields.io/badge/HTML5-020208?style=for-the-badge&logo=html5&logoColor=A855F7&labelColor=050512)
 
 <br/>
 
-![HuggingFace](https://img.shields.io/badge/HuggingFace-020208?style=for-the-badge&logo=huggingface&logoColor=FFD700&labelColor=050512)
-![OpenCV](https://img.shields.io/badge/OpenCV-020208?style=for-the-badge&logo=opencv&logoColor=00F7FF&labelColor=050512)
-![Keras](https://img.shields.io/badge/Keras-020208?style=for-the-badge&logo=keras&logoColor=FF6AC1&labelColor=050512)
-![Pandas](https://img.shields.io/badge/Pandas-020208?style=for-the-badge&logo=pandas&logoColor=A855F7&labelColor=050512)
-![SQL](https://img.shields.io/badge/SQL-020208?style=for-the-badge&logo=postgresql&logoColor=00F7FF&labelColor=050512)
+![Python](https://img.shields.io/badge/Python-020208?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=050512)
+![Flask](https://img.shields.io/badge/Flask-020208?style=for-the-badge&logo=flask&logoColor=00F7FF&labelColor=050512)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020208?style=for-the-badge&logo=postgresql&logoColor=FF6AC1&labelColor=050512)
+![PyTorch](https://img.shields.io/badge/PyTorch-020208?style=for-the-badge&logo=pytorch&logoColor=A855F7&labelColor=050512)
+![Docker](https://img.shields.io/badge/Docker-020208?style=for-the-badge&logo=docker&logoColor=00F7FF&labelColor=050512)
 
 </div>
 
@@ -38,7 +38,7 @@
 
 ### •   A B O U T   M E   •
 
-I am an aspiring **Data Scientist** and **ML Engineer** pursuing my B.Tech in CSE (Data Science) at **Woxsen University**. My focus lies at the intersection of complex algorithms and real-world impact—specializing in **Healthcare AI**, **NLP**, and **Predictive Analytics**. I strive to transform raw data into scalable, life-saving insights through innovative engineering and research.
+I am an aspiring **Full Stack Developer** and **AI Engineer** pursuing my B.Tech in CSE (Data Science) at **Woxsen University**. My focus lies at the intersection of robust web architectures and intelligent systems—specializing in **Full Stack Web Architectures**, **AI-Powered Integrations**, and **Scalable Platforms**. I strive to bridge complex technologies with intuitive user experiences that empower communities and drive impact.
 
 </div>
 
@@ -58,36 +58,36 @@ I am an aspiring **Data Scientist** and **ML Engineer** pursuing my B.Tech in CS
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                        GAYATHRI.CORE  v3.0                          ║
+║                         GAYATHRI.CORE  v3.0                          ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  entity        : Gayathri Pocharam                                  ║
-║  role          : Data Scientist · ML Engineer · Analyst             ║
-║  institute     : Woxsen University — CSE-DS '28                    ║
-║  speciality    : Data Science · AI · Machine Learning               ║
-║  location      : Hyderabad, India  🇮🇳                               ║
+║  entity        : Gayathri Pocharam                                   ║
+║  role          : Full Stack Developer · AI Engineer                  ║
+║  institute     : Woxsen University · CSE-DS '28                      ║
+║  speciality    : Full Stack Web · AI Integrations                    ║
+║  location      : Hyderabad, India                                    ║
 ║                                                                      ║
 ║  domains:                                                            ║
-║    ├─ 🤖  Deep Learning & Neural Networks                            ║
-║    ├─ 📈  Predictive Modeling & Analytics                           ║
-║    ├─ 🧠  Natural Language Processing (NLP)                         ║
-║    ├─ 👁️  Computer Vision & Image Processing                       ║
-║    ├─ 📊  Data Visualization & BI (PowerBI/Tableau)                 ║
-║    └─ 💡  Big Data & Cloud Analytics                                ║
+║    ├─ [Web] Full Stack Web Development (React/Flask/SQL)             ║
+║    ├─ [AI]  Machine Learning & Integrations                          ║
+║    ├─ [NLP] Natural Language Processing                              ║
+║    ├─ [CV]  Computer Vision & Image Processing                       ║
+║    ├─ [BI]  Data Visualization & Business Intelligence               ║
+║    └─ [Sys] Scalable Systems & Optimization                          ║
 ║                                                                      ║
 ║  current_state:                                                      ║
-║    semester    : 5th Semester  (3rd Year)                           ║
-║    focus       : StrokeGuard AI + Healthcare Analytics              ║
-║    mindset     : Data Driven · Insight Oriented · Scalable AI       ║
-║    mission     : Transform data into life-saving insights 🌍         ║
+║    semester    : 5th Semester  (3rd Year)                            ║
+║    focus       : FoodBridge + StrokeGuard AI                         ║
+║    mindset     : User Centric · Clean Code · Scalable Systems        ║
+║    mission     : Build tech that empowers communities                ║
 ║                                                                      ║
 ║  achievements:                                                       ║
-║    🏆  StrokeGuard AI Innovation Lead                               ║
-║    🎓  Academic Excellence in Data Science — 2024                   ║
-║    🔧  Data Science Portfolio Project Showcase                      ║
-║    🎤  AI Research & Workshop Facilitator                           ║
+║    ├─ StrokeGuard AI Innovation Lead                                 ║
+║    ├─ Academic Excellence in Data Science · 2024                     ║
+║    ├─ FoodBridge Platform Core Developer                             ║
+║    └─ AI Research & Workshop Facilitator                             ║
 ║                                                                      ║
-║  status        : <font color="#00C86F">ONLINE</font>  analyzing patterns                             ║
+║  status        : ONLINE · coding solutions                           ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -121,16 +121,16 @@ I am an aspiring **Data Scientist** and **ML Engineer** pursuing my B.Tech in CS
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                       • TECH STACK DNA •                           ║
+║                          • TECH STACK DNA •                          ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  LANGUAGES      : Python · R · SQL · Julia · C++                    ║
-║  FRAMEWORKS     : TensorFlow · PyTorch · Scikit-learn · Pandas      ║
-║                   NumPy · Flask · Streamlit                         ║
-║  TOOLS          : Git · GitHub · VSCode · Docker · Linux            ║
-║  ANALYTICS      : PowerBI · Tableau · Matlab · Excel                ║
+║  LANGUAGES      : Python · JavaScript · SQL · R · C++                ║
+║  FRAMEWORKS     : React · Flask · Node.js · Express · TailwindCSS    ║
+║  LIBRARIES      : PyTorch · TensorFlow · Scikit-learn · Pandas       ║
+║  TOOLS          : Git · GitHub · VSCode · Docker · Linux · CI/CD     ║
+║  ANALYTICS      : PostgreSQL · SQLite · PowerBI · Tableau · Excel    ║
 ║                                                                      ║
-║  STATE          : Optimized · Scalable · Insight-Driven             ║
+║  STATE          : Optimized · Scalable · Clean-Architecture          ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -147,12 +147,11 @@ I am an aspiring **Data Scientist** and **ML Engineer** pursuing my B.Tech in CS
 
 |Domain          |Technology                 |
 |----------------|---------------------------|
-|🐍 **Languages** |Python · SQL · R · C++     |
-|🤖 **AI / ML**   |TensorFlow · PyTorch · Scikit-learn · NLP |
-|🐼 **Data**      |Pandas · NumPy · Airflow    |
-|📈 **Analytics** |PowerBI · Tableau · Excel  |
-|🎨 **Viz**       |Matplotlib · Seaborn · Plotly|
-|🐳 **Deployment**|Docker · Flask · Streamlit |
+|🌐 **Web Dev**   |React · Node.js · Express · Flask · HTML5 · CSS3 · TailwindCSS |
+|🐍 **Languages** |Python · JavaScript · SQL · R · C++ |
+|🤖 **AI / ML**   |PyTorch · TensorFlow · Scikit-learn · NLP |
+|🗄️ **Databases**|SQLite · PostgreSQL |
+|🐳 **Tools / Ops**|Git · GitHub · Docker · Linux · CI/CD |
 
 -----
 
@@ -209,6 +208,39 @@ I am an aspiring **Data Scientist** and **ML Engineer** pursuing my B.Tech in CS
 </td>
 <td width="50%" valign="top">
 
+**🌉 FoodBridge — Surplus Food Redistribution**
+*Full-Stack Sharing Platform*
+
+```
+┌─────────────────────────────────┐
+│         PLATFORM FLOW           │
+│                                 │
+│  [ SURPLUS DONORS ]             │
+│        ↓                        │
+│  [ Quality Verification ]       │
+│    Safe Temp & Expiry Scan      │
+│        ↓                        │
+│  [ FoodBridge Core ]            │
+│    Matching & Routing Engine    │
+│        ↓                        │
+│  [ VOLUNTEERS / NGOS ]          │
+│    Claiming Delivery Tasks      │
+│        ↓                        │
+│  [ IMPACT METRICS ]             │
+│    CO₂ Savings & Meals Saved    │
+└─────────────────────────────────┘
+```
+
+**Stack:** `React` `Flask` `SQLite` `TailwindCSS` `Node.js`
+**Status:** <font color="#00C86F">ACTIVE</font>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+
+<div align="left" style="width: 350px; text-align: left; display: inline-block;">
+
 **📊 E-commerce BI Dashboard**
 *Interactive Business Intelligence Matrix*
 
@@ -234,6 +266,8 @@ I am an aspiring **Data Scientist** and **ML Engineer** pursuing my B.Tech in CS
 
 **Stack:** `PowerBI` `SQL` `Python` `Pandas` `Excel`
 **Status:** <font color="#00C86F">ACTIVE</font>
+
+</div>
 
 </td>
 </tr>
@@ -352,50 +386,50 @@ pie title Domain Focus Distribution
 class GayathriPocharam:
     """
     ╔══════════════════════════════════════════════════════════╗
-    ║        GAYATHRI POCHARAM — DATA SCIENTIST OPERATING SYS  ║
-    ║        Version: 3.0-stable  |  Build: 2028-optimized     ║
+    ║        GAYATHRI POCHARAM · FULL STACK DEVELOPER OS       ║
+    ║        Version: 3.1-stable  |  Build: 2028-optimized     ║
     ╚══════════════════════════════════════════════════════════╝
     """
 
     OPERATING_SINCE = 2024
-    VERSION         = "3.0-stable"
+    VERSION         = "3.1-stable"
     UNIVERSITY      = "Woxsen University — CSE-DS '28"
     LOCATION        = "Hyderabad, India 🇮🇳"
 
     def __init__(self):
-        self.role         = "Data Scientist · ML Engineer · AI Researcher"
-        self.domains      = ["Machine Learning", "Deep Learning", "NLP", "Computer Vision", "BI"]
-        self.stack        = ["Python", "R", "SQL", "TensorFlow", "Scikit-learn", "PowerBI"]
-        self.specialty    = "Predictive Healthcare & StrokeGuard AI"
-        self.mindset      = "Data is the new oil. Insights are the new currency."
-        self.fuel         = ["Clean Data 📊", "Hyperparameter Tuning", "Deep Neural Nets", "Latte ☕"]
+        self.role         = "Full Stack Developer · AI Engineer"
+        self.domains      = ["Full Stack Web", "AI Integrations", "NLP", "Computer Vision", "BI"]
+        self.stack        = ["React", "Flask", "Node.js", "Python", "SQL", "TailwindCSS"]
+        self.specialty    = "Full Stack Web & AI-Powered Applications"
+        self.mindset      = "User Centric · Clean Code · Scalable Systems"
+        self.fuel         = ["Clean Code 💻", "API Endpoints", "React Hooks", "Espresso ☕"]
         self.achievements = [
             "StrokeGuard Innovation Lead",
             "Academic Excellence 2024",
-            "15+ DS Projects",
+            "FoodBridge Core Developer",
             "AI Workshop Lead"
         ]
-        self.status       = "🟢 ONLINE — extracting insights"
+        self.status       = "🟢 ONLINE — coding solutions"
 
-    def analyze(self)  -> str: return "What do the patterns tell us about the future?"
-    def solve(self)    -> str: return "Optimization is key. Clean. Model. Predict."
-    def learn(self)    -> str: return "Every dataset is a new world waiting to be discovered."
-    def goal(self)     -> str: return "Build AI that saves lives and scales impact. 🌍"
+    def analyze(self)  -> str: return "What do the users need and how can the systems scale?"
+    def solve(self)    -> str: return "Clean code. Robust APIs. Seamless user experience."
+    def learn(self)    -> str: return "Every technology stack is a tool to solve real-world problems."
+    def goal(self)     -> str: return "Build tech that bridges gaps & empowers communities. 🌍"
     def current(self)  -> str: return "Woxsen University CSE → Data Science Track"
-    def next(self)     -> str: return "DS Internship → AI Research → Global Innovation"
+    def next(self)     -> str: return "Full Stack Internship → AI Solutions Dev → Tech Entrepreneur"
 
     def system_check(self) -> dict:
         return {
-            "ml_engine"      : "🟢 ONLINE — StrokeGuard + XGBoost loaded",
-            "nlp_hub"        : "🟢 ONLINE — BERT + Sentiment Transformers",
+            "web_engine"     : "🟢 ONLINE — React + Flask API active",
+            "ai_hub"         : "🟢 ONLINE — PyTorch + Transformers",
             "viz_lab"        : "🟢 ONLINE — PowerBI + Plotly active",
-            "data_pipeline"  : "🟢 ONLINE — ETL Scrapers synced",
-            "model_ops"      : "🟢 ONLINE — Dockerized + Monitoring",
+            "db_ops"         : "🟢 ONLINE — PostgreSQL + SQLite connected",
+            "deploy_ops"     : "🟢 ONLINE — Dockerized + CI/CD active",
         }
 
 
 gayathri = GayathriPocharam()
-print(gayathri.goal())          # → "Build AI that saves lives and scales impact. 🌍"
+print(gayathri.goal())          # → "Build tech that bridges gaps & empowers communities. 🌍"
 print(gayathri.system_check())  # → All systems nominal
 ```
 
@@ -436,16 +470,16 @@ print(gayathri.system_check())  # → All systems nominal
 
 |💼 Open To                 |📋 Details                                                        |
 |--------------------------|-----------------------------------------------------------------|
-|🎯 **Internships**         |Data Science · Machine Learning · AI Research · Analyst Roles    |
-|🤝 **Collaborations**      |Open source ML projects · Kaggle · Research papers               |
-|🔬 **Research Projects**   |Predictive Healthcare · NLP · Deep Learning Architectures         |
-|💡 **Idea Exchange**       |AI product strategy · System design · Big Data optimization      |
+|🎯 **Internships**         |Full Stack Web Development · Software Engineering · AI Engineering|
+|🤝 **Collaborations**      |Open source web apps · SaaS products · AI integrations           |
+|🔬 **Research Projects**   |Human-AI Interfaces · Cloud Architectures · NLP Integrations     |
+|💡 **Idea Exchange**       |System design · API architecture · Web optimization              |
 |🌍 **Remote Opportunities**|Open to global remote collaborations                             |
 
 <br/>
 
 
-> *“Every pattern we discover is a step toward saving a life through Data Science.”*
+> *“Building software that bridges gaps and empowers lives through technology.”*
 
 </div>
 
